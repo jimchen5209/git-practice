@@ -1,3 +1,3 @@
 function cat() {
-  console.log("cats");
+  console.log("cat");
 }
